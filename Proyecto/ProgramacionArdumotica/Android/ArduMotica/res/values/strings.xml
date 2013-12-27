@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArduMotica</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Apagar_Regleta">Apagar Regleta</string>
+    <string name="Encender_Regleta">Encender Regleta</string>
+
+</resources>

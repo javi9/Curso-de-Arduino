@@ -1,0 +1,5 @@
+SControl	KEYWORD1
+CalcularMedia	KEYWORD2
+RellenarMedidas	KEYWORD3
+MedidasCompletas	KEYWORD4
+
